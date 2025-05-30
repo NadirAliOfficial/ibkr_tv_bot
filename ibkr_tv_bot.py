@@ -238,7 +238,7 @@ if __name__ == '__main__':
     flask_thread.start()
 
     # Start Telegram bot for configuration
-    TELEGRAM_TOKEN = os.getenv('7507584818:AAFMOFFwUudMdX26wRyr3Jo3mMi6790u-Ls')
+    TELEGRAM_TOKEN = os.getenv('TELEGRAM_TOKEN')
     application = (
         ApplicationBuilder()
         .token(TELEGRAM_TOKEN)

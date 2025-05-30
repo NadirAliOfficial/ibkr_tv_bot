@@ -1,0 +1,4 @@
+# Environment files
+.env
+.env*
+!.env.example  # Keeps an example file (if needed)
