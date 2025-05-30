@@ -1,0 +1,10 @@
+{
+  "AAPL": {
+    "usd_amount": 200.0,
+    "min_profit_pct": 3.0
+  },
+  "TSLA": {
+    "usd_amount": 2000.0,
+    "min_profit_pct": 4.0
+  }
+}
